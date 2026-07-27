@@ -1,3 +1,2 @@
-# No arbitrage pricing
+# A éditer
 
-Projet d'apprentissage en autonomie sur le sujet du pricing d'options
