@@ -1,4 +1,9 @@
-from payoffs import call_payoff, put_payoff, Position, Portfolio
+from chapitres.chapitre01_fondations.code.payoffs import (
+    call_payoff,
+    put_payoff,
+    Position,
+    Portfolio,
+)
 
 
 def test_call_payoff():
