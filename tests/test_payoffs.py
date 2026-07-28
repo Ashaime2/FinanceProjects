@@ -1,4 +1,4 @@
-from chapitres.chapitre01_fondations.code.payoffs import (
+from src.payoffs import (
     call_payoff,
     put_payoff,
     Position,
